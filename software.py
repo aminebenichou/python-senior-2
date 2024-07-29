@@ -3,7 +3,7 @@
 # if you are using vscode press ctrl + J to open terminal
 # from db imports are the functions we created in our db.py file
 # functools is an already installed library with python
-
+# for any informations contact ceo@dokkitdz.com
 from functools import partial
 from PyQt5 import QtWidgets
 from db import insertItem, retrieveItems, editItem, deleteItem
